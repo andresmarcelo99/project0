@@ -147,4 +147,8 @@ nav{
     .logo{
       display: none;
     }
+    .cover img{
+      height: 50vh;
+    }
+
 }
