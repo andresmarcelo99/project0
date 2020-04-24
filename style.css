@@ -78,7 +78,8 @@ nav{
 }
 
 .cta-Guitars{
-  border: 2px solid #387e82;
+  border: 1px solid #387e82;
+  border-radius: 4px;
   background: transparent;
   color: #387e82;
   font-weight: 500;
@@ -90,7 +91,8 @@ nav{
 }
 
 .cta-Amps{
-  border: 2px solid #c09aac;
+  border: 1px solid #c09aac;
+  border-radius: 4px;
   background: transparent;
   color: #c09aac;
   font-weight: 500;
@@ -101,7 +103,8 @@ nav{
   margin: 20px 20px 20px 20px;
 }
 .cta-Pedals{
-  border: 2px solid #663436;
+  border: 1px solid #663436;
+  border-radius: 4px;
   background: transparent;
   color: #663436;
   font-weight: 500;
